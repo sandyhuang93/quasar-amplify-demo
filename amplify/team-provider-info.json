@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-quasar-demo-github-dev-203252-authRole",
+            "UnauthRoleArn": "arn:aws:iam::753351847045:role/amplify-quasar-demo-github-dev-203252-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::753351847045:role/amplify-quasar-demo-github-dev-203252-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-quasar-demo-github-dev-203252-deployment",
+            "UnauthRoleName": "amplify-quasar-demo-github-dev-203252-unauthRole",
+            "StackName": "amplify-quasar-demo-github-dev-203252",
+            "StackId": "arn:aws:cloudformation:us-east-2:753351847045:stack/amplify-quasar-demo-github-dev-203252/2570c280-66fc-11ea-856b-06d9da1ade34",
+            "AmplifyAppId": "d33x0vvlt20ihm"
+        },
+        "categories": {
+            "auth": {
+                "quasardemogithub0357730a": {}
+            }
+        }
+    }
+}
